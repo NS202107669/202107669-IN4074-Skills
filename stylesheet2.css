@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333; /* Dark gray text color */
+    background-color: #f9f9f9; /* Light gray background color */
+}
+
+.navigation {
+    background-color: #333; /* Dark background color for navigation */
+    color: #fff; /* White text color for navigation */
+    padding: 10px;
+}
+
+.navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.navigation ul li a {
+    color: #fff; /* White text color for navigation links */
+    text-decoration: none;
+}
+
+.navigation ul li a:hover {
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Light gray border between table rows */
+}
+
+th {
+    background-color: #f2f2f2; /* Light gray background color for table headers */
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+button {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+}
+
+button {
+    background-color: #333; /* Dark background color for button */
+    color: #fff; /* White text color for button */
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555; /* Darker background color on hover */
+}
+
+p {
+    color: green; /* Green color for success message */
+}

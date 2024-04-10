@@ -1,0 +1,17 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: cadetblue;
+}
+h1,h2,h3,h4,h5{ 
+    color: cornflowerblue;
+}
+.navigation{
+    background-color: rgb(55, 45, 5);
+}
+.content{
+    color: black;
+}
+p{
+    color: rgb(52, 23, 167);
+}

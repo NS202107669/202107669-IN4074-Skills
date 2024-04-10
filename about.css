@@ -1,0 +1,20 @@
+
+body {
+    background-color: rgba(242, 0, 0, 0.947);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color:rgb(255, 196, 0);
+    font-family: 'Georgia', serif;
+    font-style: italic;
+}
+.navigation{
+    background-color: rgba(210, 79, 35, 0.703);
+}
+
+p {
+    color:rgba(84, 26, 155, 0.763);
+}
+
+
